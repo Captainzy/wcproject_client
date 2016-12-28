@@ -14,8 +14,8 @@
 }
 #logo{
     height: 20%;
-    width:30%;
-    margin-left: 35%;
+    width:26%;
+    margin-left: 37%;
     border:1px red solid;
     border-radius:150rpx;
 }
@@ -24,7 +24,6 @@
     width:80%;
     margin-top: 5%;
     margin-left: 10%;
-    border: 1px red solid;
 }
 #button-box{
     height:30%;
@@ -41,4 +40,28 @@
 }
 #btn-cancel{
     margin-top: 3%;
+}
+#username-box{
+    height:50%;
+    width: 100%;
+}
+#password-box{
+    height:50%;
+    width:100%;
+}
+.label-pic{
+    height: 75%;
+    width:24%;   
+    float:left;
+}
+#username{
+    height: 60%;
+    font-size: 25px;
+    padding:0px 0px;
+    border-bottom:#DCDCDC 1px solid;
+}
+#password{
+    height: 60%;
+    font-size: 25px;
+    border-bottom:#DCDCDC 1px solid;
 }

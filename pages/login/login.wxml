@@ -1,7 +1,16 @@
 <view id="container">
     <view id="login-box">
         <view id="logo"></view><br></br>
-        <view id="info-box"></view>
+        <view id="info-box">
+            <view id="username-box">
+                <image class="label-pic" id="user-pic" mode="aspectFit" src="images/username.png"></image>
+                <input type="text" id="username" placeholder="请输入用户名"/>
+            </view>
+            <view id="password-box">
+                <image class="label-pic" id="password-pic" src="images/password.png"></image>
+                <input type="text" id="password" placeholder="请输入密码"/>
+            </view>
+        </view>
         <view id="button-box">
             <button class="btn" id="btn-submit">登陆</button>
             <button class="btn" id="btn-cancel">取消</button>
