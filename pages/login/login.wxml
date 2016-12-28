@@ -1,0 +1,10 @@
+<view id="container">
+    <view id="login-box">
+        <view id="logo"></view><br></br>
+        <view id="info-box"></view>
+        <view id="button-box">
+            <button class="btn" id="btn-submit">登陆</button>
+            <button class="btn" id="btn-cancel">取消</button>
+        </view>
+    </view>
+</view>

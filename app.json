@@ -1,0 +1,12 @@
+{
+  "pages":[
+    "pages/login/login",
+    "pages/logs/logs"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "ZY的微信程序",
+    "navigationBarTextStyle":"black"
+  }
+}
