@@ -1,3 +1,2 @@
-AppID(小程序ID) wx90ff98a534d437c2
-
-AppSecret(小程序密钥)bd49f446be508bd07e88cff1f28d776d
+AppID(脨隆鲁脤脨貌ID) wx90ff98a534d437c2
+AppSecret(脨隆鲁脤脨貌脙脺脭驴)bd49f446be508bd07e88cff1f28d776d
